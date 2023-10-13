@@ -24,7 +24,7 @@ export default function Hero() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h1 className="h1 mb-4" data-aos="fade-up">Company Profile Team Dearly</h1>
+            <h1 className="h1 mb-4" data-aos="fade-up">Company Profile Team RedaX</h1>
             <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">Selamat pagi, yang terhormat para hadirin, saya sangat senang bisa berbicara kepada Anda hari ini tentang perusahaan luar biasa yang menjadi tempat berkumpulnya para tim IT berbakat. Mari kita eksplorasi bersama apa yang membuat perusahaan ini begitu istimewa.</p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
