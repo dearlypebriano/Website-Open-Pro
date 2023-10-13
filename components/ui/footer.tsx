@@ -23,9 +23,7 @@ export default function Footer() {
                 </Link>
               </div>
               <div className="text-gray-400">
-                Lorem ipsum is placeholder text commonly used in the graphic,
-                print, and publishing industries for previewing layouts and
-                visual mockups.
+                Company profile ini bisa bekerja sebagaimana mestinya website company di aplikasikan, website ini dapat membantu anda menemukan permasalahan yang ada pada codingan yang ada, tanyakan ke gmail author (Dearly), jawaban akan dikirim dalam 24 Jam - 2 Hari
               </div>
             </div>
 
@@ -221,3 +219,4 @@ export default function Footer() {
     </footer>
   );
 }
+
